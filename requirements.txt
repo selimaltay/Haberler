@@ -1,0 +1,7 @@
+python-dotenv
+google-genai
+feedparser
+apscheduler
+yfinance
+requests
+psycopg2-binary
